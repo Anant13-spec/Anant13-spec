@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anant13-spec
 - 👀 I’m interested in full stack devlopment  
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C , Python3 & R for data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
